@@ -1,0 +1,620 @@
+{
+ "mirrors": [
+  {
+   "repo": "robolaunch/Cloudy-MKII-STL-models",
+   "commit": "2846da3e85a7448f8292eedd4f1e76d3cecd8f07",
+   "path": "source/upstream/Cloudy-MKII-STL-models",
+   "scope": "full tree",
+   "files": [
+    {
+     "path": "0401_001_O1_CASTER_B_X2.STL",
+     "sha": "77f1240ffffa662bca7223bdb09cb704c3320518"
+    },
+    {
+     "path": "0401_003_O1_CASTER_B_X2.STL",
+     "sha": "1a60e4168b92b8e132cd7fb169029573b9d7695d"
+    },
+    {
+     "path": "0401_004_O1_CASTER_AB_X4.STL",
+     "sha": "f731896a451e442493e19c8ea12b2f45a58d1d01"
+    },
+    {
+     "path": "0401_005_O1_CASTER_B_X2.STL",
+     "sha": "da29c647bfc088e58abf774e947e1152a8b1d77d"
+    },
+    {
+     "path": "0401_006_O1_CASTER_B_X2.STL",
+     "sha": "b5116247480babd14ff6ea9494a629cc5f1b3a93"
+    },
+    {
+     "path": "0404_012_O1_CASTER_AB_X4.STL",
+     "sha": "10fec156d89100baf6772e7efdbbc49344ca049c"
+    },
+    {
+     "path": "0404_014_O1_RCHASSIS_X1.STL",
+     "sha": "2298376a4039722c8460b133b7133d26ebabd76d"
+    },
+    {
+     "path": "0404_017_O1_CASTER_A_X2.STL",
+     "sha": "5084f38b20b5d4497fe26c87e437d8bc0300b2e9"
+    },
+    {
+     "path": "0404_018_O1_CASTER_A_X2.STL",
+     "sha": "da9a10f59e1fa554c74eec03102e8c839a6a128f"
+    },
+    {
+     "path": "0404_020_O1_CASTER_A_X2.STL",
+     "sha": "e652d7ab7c410b086b493414a41d7322e4c73392"
+    },
+    {
+     "path": "0404_024_O1_FCHASSIS_X1.STL",
+     "sha": "6958e5b646b4018b95192733811b3763578f307f"
+    },
+    {
+     "path": "0404_028_50T_O1_LRDRIVE_X2.STL",
+     "sha": "3b6cc7a5ef8656d086ea734213658ddd2ca33df3"
+    },
+    {
+     "path": "0404_029_O1_LRDRIVE_X2.STL",
+     "sha": "d1b0507c8086221fd55727a20eaf9cbcb8d3938c"
+    },
+    {
+     "path": "0404_030_O1_LRDRIVE_X2.STL",
+     "sha": "51f8cc9cbc49f1ee3e66229ede6c0bbfba156eb8"
+    },
+    {
+     "path": "0404_031_O1_RDRIVE_X1.STL",
+     "sha": "c3ba2de0dfb222ec80ffa7774129a4bac796f191"
+    },
+    {
+     "path": "0404_032_O1_WHEEL_X2.STL",
+     "sha": "50a56a4048c219a63fff7b7a9f9a794965ecb56f"
+    },
+    {
+     "path": "0404_033_O1_MCHASSIS_X1.STL",
+     "sha": "3651581c57c23df9364d07e27271dba30eb1c52f"
+    },
+    {
+     "path": "0404_034_O1_LRDRIVE_X2.STL",
+     "sha": "bd2864ea33e303b0b83e55f4c606697b2570e1df"
+    },
+    {
+     "path": "0404_035_O1_LRDRIVE_X2.STL",
+     "sha": "f3a88f61535e68037b769a7fd97c7a012058fd34"
+    },
+    {
+     "path": "0404_039_O1_CLIP_X1.STL",
+     "sha": "2631edc8b12b4eb70875d8a7e768ca79a43f30c1"
+    },
+    {
+     "path": "0404_044_O1_FPANEL_X1.STL",
+     "sha": "3e68d8db461b66998b6b0d70e6f52f8aaef5e8de"
+    },
+    {
+     "path": "0404_047_O1_RPANEL_X1.STL",
+     "sha": "2f5ff8851eed6697c52950f755bf2df824e5eb71"
+    },
+    {
+     "path": "0404_049_O1_TPANEL_X1.STL",
+     "sha": "89adbeaae77b7133789f62542ce5cf7d5c0bb2df"
+    },
+    {
+     "path": "0404_052_O1_BATCOVER_X1.STL",
+     "sha": "db06beadba8419d5561da9f5f1ff57148efc6008"
+    },
+    {
+     "path": "0404_055_O1_LPANEL_X1.STL",
+     "sha": "ce1194062fd4768f59fdee87ea669207ca0da70e"
+    },
+    {
+     "path": "0404_060_O1_RDRIVE_X1.STL",
+     "sha": "b418b9588e99d3303def5590f7ab1218b3261ba6"
+    },
+    {
+     "path": "0404_064_O1_RIGHTPANEL_X1.STL",
+     "sha": "52bd2ca9a6efa80b7bf990f338d6dadea3a09968"
+    },
+    {
+     "path": "0404_065_O1_RPANEL_X1.STL",
+     "sha": "c333688960415bd3f81a54f4ffdb86ad57f2467c"
+    },
+    {
+     "path": "0404_067_O1_BATBOT_X1.STL",
+     "sha": "4bc8feeaf726ad182e5ed5964f124bc8aa6670c9"
+    },
+    {
+     "path": "0404_070_O1_CASTER_A_X1.STL",
+     "sha": "2bb539358346ef90f70b88892228dc72b98b385b"
+    },
+    {
+     "path": "LICENSE",
+     "sha": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64"
+    },
+    {
+     "path": "README.md",
+     "sha": "05e4453a033a7a6dbac48891d6ad092a2a17214e"
+    },
+    {
+     "path": "images/CASTERWHEELS BEARINGS.png",
+     "sha": "807f5350fa918dd0da4bcdfa8cdefeba204b3bf9"
+    },
+    {
+     "path": "images/CASTERWHEELS NUTS.png",
+     "sha": "2fd30d1c1fcff039c8e82a6ed45d23e58c9d37ae"
+    },
+    {
+     "path": "images/CASTERWHEELSFINASSEM2.png",
+     "sha": "dc925129b90729d81d390ad6808ffd7d2ed5ceb2"
+    },
+    {
+     "path": "images/CASTERWHEELS_GATHER.PNG",
+     "sha": "71f1960012349a1f11e672c35474aa8d5fc42af5"
+    },
+    {
+     "path": "images/CLOUDY MK2 (10).png",
+     "sha": "b54406a4799ad7a6c37d5f003a0e690c6648b127"
+    },
+    {
+     "path": "images/CLOUDY MK2 (3).png",
+     "sha": "b763ea5fd5c5c5c50ef0d3d984b7fd0e01ff1a76"
+    },
+    {
+     "path": "images/CLOUDY MK2 (3dsa).png",
+     "sha": "436b3da52e2639add9dea08dc3cf9fb18f7a72c7"
+    },
+    {
+     "path": "images/CLOUDY MK2 (4).png",
+     "sha": "1d32003976288bfa2bf62a9361d09609c2950047"
+    },
+    {
+     "path": "images/CLOUDY MK2 (5).png",
+     "sha": "03974d723335cfe489f8254bb0e8ada8163403d9"
+    },
+    {
+     "path": "images/CLOUDY MK2 (7).png",
+     "sha": "101dac21cfaa08051a55a6080a85215ed8ae50a0"
+    },
+    {
+     "path": "images/CLOUDY MK2 (8).png",
+     "sha": "191cfa4a2a39de49e2d40d7628f38a141780680f"
+    },
+    {
+     "path": "images/CLOUDY MK2 (9).png",
+     "sha": "7a48c936c724780d93f0a299c49e696fd18bd2dd"
+    },
+    {
+     "path": "images/DRIVEWHEELNUTS.png",
+     "sha": "b0f4add0104fa2eb6b9caee7e3a2979b8ebb9b68"
+    },
+    {
+     "path": "images/DRIVEWHEELS.PNG",
+     "sha": "439a33e4e47760731c73ab57724c73f517fa1d3c"
+    },
+    {
+     "path": "images/DRIVEWHEELSFIN.png",
+     "sha": "d55388832ca532bcf5e8721564bf1776e6237821"
+    },
+    {
+     "path": "images/DRIVEWHEELSSEMIASSEM.png",
+     "sha": "0db2a8168726f83cb97367c6927a5a0cf8555beb"
+    },
+    {
+     "path": "images/DR\u0130VEWHEEL TENSIONER.png",
+     "sha": "caa146a228823e8c8d8b53b9fbb82a3eb3eaf760"
+    },
+    {
+     "path": "images/STEPREAR1.png",
+     "sha": "07fa6219b029edf00c0ebdbff82be92ae7d7f148"
+    },
+    {
+     "path": "images/cloudy assem step 1.1.png",
+     "sha": "b39f8682913915bcfcd7f726a3ebb3f6f7457d28"
+    },
+    {
+     "path": "images/cloudy assem step 1.png",
+     "sha": "e67bf16b5724c6acd1b1c257378cd6e1ffe1969c"
+    },
+    {
+     "path": "images/cloudy assem step 10.png",
+     "sha": "d60aeedd6676808e858be9db4b1bd9b6eb5d6837"
+    },
+    {
+     "path": "images/cloudy assem step 11.png",
+     "sha": "abc9e406ab458ec7b27fbd7ea05eb0cd47f05d0e"
+    },
+    {
+     "path": "images/cloudy assem step 12.png",
+     "sha": "0b8efcd1a600fe8e99917c697fb356f088352f93"
+    },
+    {
+     "path": "images/cloudy assem step 13.png",
+     "sha": "a9c87e379917be2a3e1149c047015b2d37b6b896"
+    },
+    {
+     "path": "images/cloudy assem step 14.png",
+     "sha": "5fc116d014c2627a2e6cea35046155be147ad941"
+    },
+    {
+     "path": "images/cloudy assem step 15.png",
+     "sha": "e8640b9952ed5c5e35569506a709d9be53c58f66"
+    },
+    {
+     "path": "images/cloudy assem step 16.png",
+     "sha": "a516dd9a6c9b2c29d2f52642e943e593f899e157"
+    },
+    {
+     "path": "images/cloudy assem step 17.png",
+     "sha": "d8f1e58dc73da6b2b5ccfa703da7e0e803bc14b1"
+    },
+    {
+     "path": "images/cloudy assem step 2.png",
+     "sha": "5419a9861cc7ef3178fde0de2ebaaa6e8fc85a35"
+    },
+    {
+     "path": "images/cloudy assem step 3.png",
+     "sha": "63328006b1aee9de67ef11e0426693b9005e84c7"
+    },
+    {
+     "path": "images/cloudy assem step 4.png",
+     "sha": "56facf5db221d5893cf31af00a063f7ae109d380"
+    },
+    {
+     "path": "images/cloudy assem step 5.3.png",
+     "sha": "50b37fc6d50703f47ecfe81ada1287c640781855"
+    },
+    {
+     "path": "images/cloudy assem step 5.png",
+     "sha": "667ffa365658ac075404d4ce2cda41544afd7a2b"
+    },
+    {
+     "path": "images/cloudy assem step 6.png",
+     "sha": "d19e5a81903bc8138fe7a7f983ccbb4bf0debbd7"
+    },
+    {
+     "path": "images/cloudy assem step 7.png",
+     "sha": "b61e2bef664d8c261802f6a145b6c326e0afc06c"
+    },
+    {
+     "path": "images/cloudy assem step 8.png",
+     "sha": "5c147b93d40b1f39b6f197bf2d9fb17fb7d07d3a"
+    },
+    {
+     "path": "images/cloudy assem step 9.1.png",
+     "sha": "9b00953843dfd74fac7e10cc0a7b9ef6f2c2df11"
+    },
+    {
+     "path": "images/cloudy assem step 9.png",
+     "sha": "03f84127b77580e35d15789b277c7d45a467ea80"
+    },
+    {
+     "path": "images/cloudy caster illus 1.png",
+     "sha": "b443ab89091ddb52b9150cecd2fea69dfa22141e"
+    },
+    {
+     "path": "images/cloudy dimensions 1.png",
+     "sha": "f21eeb5834114a92e1258400307dea58a484b67d"
+    },
+    {
+     "path": "images/cloudy drive illus 1.png",
+     "sha": "fa1071d768a6a5e3eb5372e44c4227ee0f778927"
+    },
+    {
+     "path": "images/cloudy frame illus 1.png",
+     "sha": "c3077226b4ec00404c624c5879515ccec1500560"
+    },
+    {
+     "path": "images/cloudy frame illus 2.png",
+     "sha": "80718329747976520b33b281f6dc254f369411c7"
+    },
+    {
+     "path": "images/cloudy frame illus 3.png",
+     "sha": "f7df97605a499f07f353491abfa418b8c4c04d8f"
+    },
+    {
+     "path": "images/cloudy isometric.png",
+     "sha": "b746fb82f3896de85f5edf3a30fa68f9cb436507"
+    },
+    {
+     "path": "images/cloudy.png",
+     "sha": "72b78993ef37e88c8230e6100cde04b0b532963a"
+    }
+   ]
+  },
+  {
+   "repo": "robolaunch/cloudy",
+   "commit": "a15f636ea142e3c4db07092d80f6eb8958747eed",
+   "path": "source/upstream/cloudy",
+   "scope": "LICENSE, README.md, docs/, robolaunch_cloudy_hardware/",
+   "files": [
+    {
+     "path": "LICENSE",
+     "sha": "8b6374bd2ea72b67ef7c74195d3c111f1df048d4"
+    },
+    {
+     "path": "README.md",
+     "sha": "7ce1dc05d1663cfeb2689bdcf2c7e4c4bccc43ff"
+    },
+    {
+     "path": "docs/.nojekyll",
+     "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+     "path": "docs/README.md",
+     "sha": "a16ad849775c0f9a872f88cea32bd640474bd913"
+    },
+    {
+     "path": "docs/_coverpage.md",
+     "sha": "3e5f8c88941b83655f8f2beac3246e4b58a45b84"
+    },
+    {
+     "path": "docs/_sidebar.md",
+     "sha": "f79b58ba89536ef88e710f6b15a142500f9fe556"
+    },
+    {
+     "path": "docs/concepts/cloud/hybrid-fleet.md",
+     "sha": "cfbb912caa8f79d51eb5e473ab7c96e27c2de0e9"
+    },
+    {
+     "path": "docs/concepts/cloud/hybrid-robot.md",
+     "sha": "1cf2025f97d6b5fdede35b5034bcdcdd45c201ae"
+    },
+    {
+     "path": "docs/concepts/cloud/robotics-cloud.md",
+     "sha": "4bcd2a2c25b7020c09dd44151d365478bf5e846b"
+    },
+    {
+     "path": "docs/index.html",
+     "sha": "5b61943a4203a2ed7dbd2c90725544983c659011"
+    },
+    {
+     "path": "docs/mini-agv/README.md",
+     "sha": "a91989ab142375fd95b9ca751f99bb1f1a60cc68"
+    },
+    {
+     "path": "docs/mini-agv/electronics/README.md",
+     "sha": "d32bb4aa0be15ea8a5a6ccfa90d7fd140a226e20"
+    },
+    {
+     "path": "docs/mini-agv/electronics/actuators.md",
+     "sha": "1a1b0bba0d9a747fef85a465b26a3b19288c0d3f"
+    },
+    {
+     "path": "docs/mini-agv/electronics/battery.md",
+     "sha": "fbe46f7b979ccc8d1f3e1fa3c84be99051812f78"
+    },
+    {
+     "path": "docs/mini-agv/electronics/electrical-components.md",
+     "sha": "4df513252ab09f2fd999c1691d1b2e18a9e0ff45"
+    },
+    {
+     "path": "docs/mini-agv/electronics/electronic-cards.md",
+     "sha": "53286da63ece37f5f4300bf1c35a57fc33783452"
+    },
+    {
+     "path": "docs/mini-agv/electronics/embedded-cards.md",
+     "sha": "9e25e541cc4824bcb8c70d93d7bf4da0eacfb080"
+    },
+    {
+     "path": "docs/mini-agv/electronics/lidar.md",
+     "sha": "08b145afd1610657bac29fe189352007fc8ab539"
+    },
+    {
+     "path": "docs/mini-agv/electronics/sbc.md",
+     "sha": "7e302b888786542c9d1b82f40e99b214ca75ff2e"
+    },
+    {
+     "path": "docs/mini-agv/electronics/sensors.md",
+     "sha": "15ccabbe1bd3a85bf12dd5b5203310d7a3e305ce"
+    },
+    {
+     "path": "docs/mini-agv/electronics/stereo.md",
+     "sha": "c126a7d877541011fa811bf97dbea40da51b9742"
+    },
+    {
+     "path": "docs/mini-agv/electronics/wiring.md",
+     "sha": "d0ef4316853c388b49d1ef548c6e368c08db4244"
+    },
+    {
+     "path": "docs/mini-agv/getting-started.md",
+     "sha": "ef9fa1b32b0d681a413992f096fdd65b6abafe9d"
+    },
+    {
+     "path": "docs/mini-agv/launching/README.md",
+     "sha": "bef0e4091f6cb23dfc6e6543f6a099ec67d426d7"
+    },
+    {
+     "path": "docs/mini-agv/launching/direct.md",
+     "sha": "4150fdbd6479c88e8f9e18d216ae84ef131f0562"
+    },
+    {
+     "path": "docs/mini-agv/launching/hybrid.md",
+     "sha": "5efc6eff968f1c57ad2ef4e62aac801a008dfd02"
+    },
+    {
+     "path": "docs/mini-agv/learning/README.md",
+     "sha": "586046ee6084ffb151236f7c3c309d2976bb26cd"
+    },
+    {
+     "path": "docs/mini-agv/learning/ros2-concepts.md",
+     "sha": "380f168e503230ff481d6136d9fe32652bee319b"
+    },
+    {
+     "path": "docs/mini-agv/learning/ros2-tools.md",
+     "sha": "132559b59b0fea4779708140233708ebf0f7a5c5"
+    },
+    {
+     "path": "docs/mini-agv/learning/ros2-tutorials.md",
+     "sha": "bacb6a845072dd87829dce50c73f05ca7521d93d"
+    },
+    {
+     "path": "docs/mini-agv/learning/use-case.md",
+     "sha": "18cb4b639a4abebe174f530ea1c0dbae5e2ff0d8"
+    },
+    {
+     "path": "docs/mini-agv/learning/warming-up.md",
+     "sha": "35ccd0eae7b487970f3b8fe65b0854d00d619bbf"
+    },
+    {
+     "path": "docs/mini-agv/mechanical/README.md",
+     "sha": "c5f8f9219431e913cbdf6ecc39e76b69db061ce2"
+    },
+    {
+     "path": "docs/mini-agv/mechanical/bom-mechanical.md",
+     "sha": "3026859d2fd72381905b5562c82a0d04dca0d0e0"
+    },
+    {
+     "path": "docs/mini-agv/mechanical/hardware-setup.md",
+     "sha": "6310a2c67cb9fe4a87a5f6487eb00956eb25d408"
+    },
+    {
+     "path": "docs/mini-agv/mechanical/manifacturing.md",
+     "sha": "a8615a67ad505295fcbee10e5e6beda83471d6bf"
+    },
+    {
+     "path": "docs/mini-agv/operations/README.md",
+     "sha": "51b2e37b1b417d9c0410d6656d3444949da2e89e"
+    },
+    {
+     "path": "docs/mini-agv/operations/development.md",
+     "sha": "90c64e52f95d39f8302698c7295256fd025e5531"
+    },
+    {
+     "path": "docs/mini-agv/operations/simulation.md",
+     "sha": "3ab0886f6b4ddc9ee4da2f93a55685d9e15b360d"
+    },
+    {
+     "path": "docs/mini-agv/operations/task-management.md",
+     "sha": "25cfa157677043b70ef6e587ac5e104c1c8cd94f"
+    },
+    {
+     "path": "docs/mini-agv/operations/teleoperation.md",
+     "sha": "8cd4398cb69bd0d87ec67d3a9f3cd96a22aea0ff"
+    },
+    {
+     "path": "docs/mini-agv/raspberry-pi-4-setup/README.md",
+     "sha": "d75d0e056a5d038f88ffa8d36827eb6cc1c0cd6c"
+    },
+    {
+     "path": "docs/mini-agv/raspberry-pi-4-setup/environment/README.md",
+     "sha": "9e74a471d89c2aa5c02884ffd18093ab0a4dab23"
+    },
+    {
+     "path": "docs/mini-agv/raspberry-pi-4-setup/environment/host.md",
+     "sha": "61cae48d4a61508482ac4981b4ccebfacb22eac2"
+    },
+    {
+     "path": "docs/mini-agv/raspberry-pi-4-setup/environment/robotics-cloud/README.md",
+     "sha": "501753179ca81ee9c52383751bef15abd3a8d3f9"
+    },
+    {
+     "path": "docs/mini-agv/raspberry-pi-4-setup/environment/robotics-cloud/cloud-instance.md",
+     "sha": "560eb7e3a5c716d1671eded5a4a20e5f1dfb6ad6"
+    },
+    {
+     "path": "docs/mini-agv/raspberry-pi-4-setup/environment/robotics-cloud/physical-instance.md",
+     "sha": "96e7180e4224a4e8a3da76ca841bc2b938deaf23"
+    },
+    {
+     "path": "docs/mini-agv/raspberry-pi-4-setup/ubuntu.md",
+     "sha": "ed611721f8b251fa37e5920de85f492f95f61b53"
+    },
+    {
+     "path": "docs/mini-agv/software/README.md",
+     "sha": "f35eff7f19228797a359751306147279b4a33257"
+    },
+    {
+     "path": "docs/mini-agv/software/embedded/README.md",
+     "sha": "e7726942bc43423909f2559f24441c39472509ce"
+    },
+    {
+     "path": "docs/mini-agv/software/embedded/ibus.md",
+     "sha": "6b02b3c6e0d2492e9030da325208bd51df625639"
+    },
+    {
+     "path": "docs/mini-agv/software/embedded/led-control.md",
+     "sha": "46030889fab2bd47df39238d22260cc76b47acd0"
+    },
+    {
+     "path": "docs/mini-agv/software/embedded/micro-ros.md",
+     "sha": "32e2b1366e08a921f79841d3ba96641765ed789c"
+    },
+    {
+     "path": "docs/mini-agv/software/embedded/motor-control.md",
+     "sha": "6d11a246f2a84a11e7c1dc1366a61155aa1a8a0d"
+    },
+    {
+     "path": "docs/mini-agv/software/embedded/oled-screen.md",
+     "sha": "b11ed91aa77be83a100ce90c65c2da8eac896244"
+    },
+    {
+     "path": "docs/mini-agv/software/embedded/sensor-read.md",
+     "sha": "0c2429d91165bc2d64eb84ff1d7973dac85f2bcb"
+    },
+    {
+     "path": "docs/mini-agv/software/ros2-packages/README.md",
+     "sha": "08b95e085ef28dcdc3d21952faab5b6ef7425cd1"
+    },
+    {
+     "path": "docs/mini-agv/software/ros2-software/README.md",
+     "sha": "47fe1d95a7b7bd98f22781677299b854080147e7"
+    },
+    {
+     "path": "docs/mini-agv/software/ros2-software/micro-ros-agent.md",
+     "sha": "684dbea4f284cdcbea095afaeec9796b0f504da4"
+    },
+    {
+     "path": "docs/mini-agv/software/ros2-software/nav2.md",
+     "sha": "f5941b861cccdd967b522a43979704502817077e"
+    },
+    {
+     "path": "docs/mini-agv/software/ros2-software/ros-control.md",
+     "sha": "f7ee1286e32e1e03fd57f436c24b120089e9467a"
+    },
+    {
+     "path": "docs/mini-agv/software/ros2-software/slam.md",
+     "sha": "3fbc329276ca2508c755a61a0f55493ac177c858"
+    },
+    {
+     "path": "docs/mini-agv/software/simulation/README.md",
+     "sha": "ffdb1bc218a9421d1ac3cbfcd4a9d189585370bd"
+    },
+    {
+     "path": "robolaunch_cloudy_hardware/CMakeLists.txt",
+     "sha": "01f3dae931784b7ceedbd5572e296832b76508bb"
+    },
+    {
+     "path": "robolaunch_cloudy_hardware/firmware/firmware.ino",
+     "sha": "6249222e1675b5885fd76af324d0857aac2f330c"
+    },
+    {
+     "path": "robolaunch_cloudy_hardware/firmware/firmware_flysky.ino",
+     "sha": "15805d14089f24433ef02f473fa6dcbd271a0c0e"
+    },
+    {
+     "path": "robolaunch_cloudy_hardware/firmware/firmware_sensors.ino",
+     "sha": "44c7c903d36a115bdedfdaf8bef3332323e25c06"
+    },
+    {
+     "path": "robolaunch_cloudy_hardware/include/robolaunch_cloudy_hardware/diffbot_system.hpp",
+     "sha": "b4ab6fc6ecff214e05af4f334995accf34b5e780"
+    },
+    {
+     "path": "robolaunch_cloudy_hardware/include/robolaunch_cloudy_hardware/visibility_control.h",
+     "sha": "bb1a25e282951366c59267c9a14cd685e4c7d128"
+    },
+    {
+     "path": "robolaunch_cloudy_hardware/package.xml",
+     "sha": "a425455d051ac9205d2c960d45a61f0559de19ab"
+    },
+    {
+     "path": "robolaunch_cloudy_hardware/robolaunch_cloudy_hardware.xml",
+     "sha": "1a399f03e9fdb115def1f9021deca182d0a287b2"
+    },
+    {
+     "path": "robolaunch_cloudy_hardware/src/diffbot_system.cpp",
+     "sha": "2b957880485a0daee1b7486918f69c264014639c"
+    }
+   ]
+  }
+ ]
+}
