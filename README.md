@@ -80,6 +80,10 @@ The 6S pack stores a lot of energy. Use a pack with a BMS, fuse the main line, a
 - Full ROS 2 workspace (description, bringup, navigation, simulator and the lidar driver), not copied here: `git clone https://github.com/robolaunch/cloudy.git`, then `git checkout a15f636` for the version this guide was written against.
 - micro-ROS agent on the on-board computer: `ros2 run micro_ros_setup create_agent_ws.sh`, `ros2 run micro_ros_setup build_agent.sh`, `source install/local_setup.sh`, then `ros2 run micro_ros_agent micro_ros_agent serial --dev /dev/ttyUSB0` (use the ESP32 port shown by `sudo dmesg | grep USB`).
 
+## Bill of Material
+
+[Bill of Material (PDF)](docs/Cloudy%20MK2%20Mini-AGV%20Robot%20-%20Bill%20of%20Material.pdf): every part to buy, with shop links.
+
 ## Documentation download
 
 This repository is the documentation and source download for the build.
