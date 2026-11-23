@@ -82,6 +82,8 @@ The 6S pack stores a lot of energy. Use a pack with a BMS, fuse the main line, a
 
 ## Bill of Material
 
+[Bill of Material (web page)](https://toolknox.github.io/hawkridge-cloudy-mk2-mini-agv-ros2-robot/bill-of-material.html): open in the browser and click straight through to each part.
+
 [Bill of Material (PDF)](docs/Cloudy%20MK2%20Mini-AGV%20Robot%20-%20Bill%20of%20Material.pdf): every part to buy, with shop links.
 
 ## Documentation download
